@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 8889,
+    "url": "",
+    "database": "lb_test",
+    "password": "root",
+    "name": "db",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

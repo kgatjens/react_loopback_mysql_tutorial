@@ -29,7 +29,7 @@ To run the LB API, just run:
 
 After this, if you go to: http://localhost:3000/explorer/ you should be able to see something like: 
 
-https://github.com/kgatjens/react_loopback_mysql_tutorial/blob/master/loopback.png
+![alt text](https://github.com/kgatjens/react_loopback_mysql_tutorial/blob/master/loopback.png)
 
 ### Running the Client
 
@@ -44,6 +44,6 @@ Run:
 
 No, if you go to: http://localhost:3001/ you should be able to see something like:
 
-https://github.com/kgatjens/react_loopback_mysql_tutorial/blob/master/meetup_crud.png
+![alt text](https://github.com/kgatjens/react_loopback_mysql_tutorial/blob/master/meetup_crud.png)
 
 

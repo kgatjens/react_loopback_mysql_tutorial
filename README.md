@@ -27,6 +27,10 @@ To run the LB API, just run:
 
 > `node .`
 
+After this, if you go to: http://localhost:3000/explorer/ you should be able to see something like: 
+
+
+
 ###Running the Client
 
 Go inside the `client folder`
@@ -37,3 +41,9 @@ Run:
 > `npm install —save react-router react-router-dom`
 > `npm install axios —save`
 > `npm start`
+
+No, if you go to: http://localhost:3001/ you should be able to see something like:
+
+
+
+

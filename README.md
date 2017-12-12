@@ -38,11 +38,14 @@ Go inside the `client folder`
 Run:
 
 > `npm install`
+
 > `npm install —save react-router react-router-dom`
+
 > `npm install axios —save`
+
 > `npm start`
 
-No, if you go to: http://localhost:3001/ you should be able to see something like:
+Now, if you go to: http://localhost:3001/ you should be able to see something like:
 
 ![alt text](https://github.com/kgatjens/react_loopback_mysql_tutorial/blob/master/meetup_crud.png)
 
